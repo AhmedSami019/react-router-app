@@ -1,6 +1,6 @@
 import React from 'react';
 import { useLoaderData } from 'react-router';
-import User from './User/User';
+import User from '../../User/User';
 
 const Users = () => {
 
